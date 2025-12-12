@@ -28,15 +28,14 @@ img{
     flex-wrap: wrap;
 }
 
-.image-row {
-  display: flex;            
-  gap: 40px;                
+.features {
+  display: flex;                           
   align-items: flex-start;   
   flex-wrap: wrap;       
 }
 
-.image-container {
-  display: flex;
-  flex-direction: column;   
-  text-align: center;
+img {
+    width: 600px;
+    height: 300px;
 }
+
