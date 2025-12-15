@@ -34,10 +34,10 @@ img{
   flex-wrap: wrap;       
 }
 
-img {
-    width: 600px;
+/* img {
+    /* width: 600px;
     height: 300px;
-}
+} */ */
 
 .download-btn {
   display: inline-block;
